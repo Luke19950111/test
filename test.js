@@ -1,3 +1,3 @@
 console.log('temp')
 
-let a = 4
+let a = 1
